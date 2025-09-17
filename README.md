@@ -18,7 +18,7 @@ The player can place bricks (cover blocks). These act as barriers against zombie
 
 ### Game Screen  
 Player moves with **WASD**, shoots with the **mouse**, and places blocks with **right click**.  
-Zombies spawn from outside the screen and move toward the player.  
+Zombies spawn from outside the screen and move toward the player, and they move and spawn faster each 30 seconds.  
 
 ![game-screen](https://github.com/user-attachments/assets/d6aef2d9-6237-45aa-aae6-1ebd0ddf9001)
 
